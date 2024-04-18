@@ -6,7 +6,7 @@
 
 - Currently, working on **PortFolio**
 
-- 📫 How to reach me **rajputsinghkuldeep@gmail.com**
+- 📫 Reach me **rajputsinghkuldeep@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
