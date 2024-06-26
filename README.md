@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kul1511&label=Profile%20views&color=0e75b6&style=flat" alt="kul1511" /> </p>
 
 
-- Currently, working on **PortFolio**
 
 - 📫 Reach me **rajputsinghkuldeep@gmail.com**
 
